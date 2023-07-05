@@ -42,3 +42,9 @@ header h2 {
 .my-row {
     margin: 5px 0px 0px -1rem;
 }
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
